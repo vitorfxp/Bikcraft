@@ -1,2 +1,10 @@
-@import url("header.css");
-@import url("global.css");
+@import url("./global/global.css");
+@import url("./global/header.css");
+
+/* Hone */
+@import url("./home/introducao.css");
+
+/* Utilidades */
+@import url("./utlidades/componentes.css");
+@import url("utlidades/tipografia.css");
+@import url("utlidades/cores.css");
