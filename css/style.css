@@ -24,3 +24,7 @@
 @import url("seguros/seguros.css");
 @import url("seguros/vantagens.css");
 @import url("seguros/perguntas.css");
+
+/* Bicicleta (página interna) */
+@import url("bicicleta/bicicleta.css");
+@import url("bicicleta/seguro.css");
