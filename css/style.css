@@ -21,6 +21,10 @@
 @import url("contato/contato.css");
 @import url("contato/lojas.css");
 
+/* Orçamento */
+@import url("orcamento/orcamento.css");
+
+
 /* Bicicletas */
 @import url("bicicletas/bicicletas-lista.css");
 @import url("bicicletas/bicicletas.css");
