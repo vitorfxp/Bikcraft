@@ -8,6 +8,8 @@
   gap: 40px;
   padding-bottom: 60px;
   padding-top: 60px;
+  background: url("../../imgs/decoradores/cinza-1.svg") no-repeat top 40px right
+    20px;
 }
 
 .bicicletas-imagem {

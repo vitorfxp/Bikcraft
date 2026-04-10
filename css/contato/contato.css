@@ -15,12 +15,14 @@
 
 .contato-informacoes {
   border-radius: 5px 0 0 5px;
-  background: var(--cor-12);
+  background: var(--cor-12) url("../../imgs/decoradores/cinza-2.svg") no-repeat
+    bottom 20px left 20px;
 }
 
 .contato-formulario {
   border-radius: 0 5px 5px 0;
-  background: var(--cor-0);
+  background: var(--cor-0) url("../../imgs/decoradores/cinza-3.svg") no-repeat
+    bottom 20px right 20px;
 }
 
 .contato-informacoes h2 {
@@ -70,6 +72,9 @@
 @media (max-width: 800px) {
   .contato {
     grid-template-columns: 1fr;
+  }
+  .contato-informacoes {
+    background: var(--cor-12);
   }
   .contato-informacoes,
   .contato-formulario {

@@ -89,6 +89,10 @@
   background-color: var(--cor-11);
 }
 
+.titulo {
+  background: url("../../imgs/decoradores/cinza-1.svg") no-repeat top right 20px;
+}
+
 .titulo p {
   margin-bottom: 4px;
 }
