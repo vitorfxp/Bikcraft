@@ -1,3 +1,5 @@
+document.documentElement.classList.add("js");
+
 //Ativar links no header menu
 const links = document.querySelectorAll(".header-menu a");
 
